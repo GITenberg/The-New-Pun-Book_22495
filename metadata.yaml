@@ -1,0 +1,32 @@
+_repo: The-New-Pun-Book_22495
+_version: 0.1.0
+contributor:
+  compilers:
+  - agent_name: Brown, Thomas A.
+    birthdate: 1861
+    gutenberg_agent_id: '25358'
+    url: http://www.gutenberg.org/2009/agents/25358
+  - agent_name: Carey, T. J. (Thomas Joseph)
+    alias: Carey, Thomas Joseph
+    birthdate: 1853
+    gutenberg_agent_id: '25359'
+    url: http://www.gutenberg.org/2009/agents/25359
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2007-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22495'
+  lccn: 06012824
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Puns and punning'
+title: The New Pun Book
+url: http://www.gutenberg.org/ebooks/22495
